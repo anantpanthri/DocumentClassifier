@@ -5,4 +5,4 @@ This project requiers a sample excel file containing the list of all the images 
 Based on it the classification of images begins.
 Runs great if you have a gpu processor.
 The model trains itself based on weights and is later saved in the system as model.h5 and model.json
-The "to be predicted" images is stored in the predicted directory and is classified upto the approximation of 85%.
+The "to be predicted" images is stored in the predicted directory and is classified upto the approximation of 92%.
